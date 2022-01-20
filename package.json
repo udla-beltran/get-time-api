@@ -1,0 +1,30 @@
+{
+  "name": "get-time-api",
+  "version": "1.0.0",
+  "description": "api to get current time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udla-beltran/get-time-api.git"
+  },
+  "keywords": [
+    "api",
+    "time",
+    "get",
+    "node",
+    "js"
+  ],
+  "author": "Juan Pablo Beltran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udla-beltran/get-time-api/issues"
+  },
+  "homepage": "https://github.com/udla-beltran/get-time-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
